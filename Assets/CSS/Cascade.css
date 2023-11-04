@@ -1,0 +1,29 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td{
+    border: 2px solid wheat;
+    padding: 10px;
+    margin: 50px;
+}
+thead{
+    font-family: Cambria;
+    font-size: 24px;
+    color: chocolate;
+}
+body {
+    background-color: #4a884a;
+}
+
+h2{
+    text-align: center;
+    font-family: Bahnschrift;
+    font-size: 25px;
+}
+img{
+    display: block;
+    width: 10%;
+    margin: auto;
+
+}

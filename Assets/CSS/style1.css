@@ -1,0 +1,43 @@
+.fruits{
+    border: 3px solid chartreuse;
+    padding: 20px;
+    margin: 50px;
+    text-align: center;
+    color: brown;
+    width: 40%;
+    height: 80%;
+    background-color: #e0fdd6;
+
+}
+.FRUITS{
+    border: 3px solid chartreuse;
+    padding: 20px;
+    margin: 50px;
+    text-align: justify-all;
+    color: brown;
+    width: 30%;
+    background-color: #b9cbb9;
+}
+img{
+    width: 30%;
+}
+.FRUITS{
+    border: 3px solid chartreuse;
+    padding: 20px;
+    margin: 50px;
+    text-align: center;
+    color: brown;
+    width: 40%;
+    height: 80%;
+    background-color: #e0fdd6;
+}
+#school{
+    border: 3px solid chartreuse;
+    padding: 20px;
+    margin: 50px;
+    text-align: center;
+    color: brown;
+    width: 40%;
+    height: 80%;
+    background-color: #e0fdd6;
+}
